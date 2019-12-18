@@ -1,0 +1,9 @@
+C:\Users\Shubham\source\repos\Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\Shubham\source\repos\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\Shubham\source\repos\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Shubham\source\repos\Barcode\Barcode\obj\Debug\Barcode.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\Shubham\source\repos\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Shubham\source\repos\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\Shubham\source\repos\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\Shubham\source\repos\Barcode\Barcode\obj\Debug\Barcode.pdb
